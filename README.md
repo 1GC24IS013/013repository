@@ -6,6 +6,6 @@ section: c
 subject Name:project Management with git
 subject code:BCS358C
 Academic Year:2025-26
-Mobile No:9620483405
-Email Id:laxmish@gmail.com
+Mobile No:9624758995
+
 
