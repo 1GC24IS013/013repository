@@ -6,4 +6,7 @@ section:C
 Branch:Information science Engineering
 Year of Admission:2025
 collage Name:GCE
+SSLC:pragatib vidyalaya MUroor
+PUC:Hanumanth Benne PU govt. college
+UG Degree:Ghousia college of engineering
 
